@@ -1,0 +1,38 @@
+[
+     {
+          "codigo": 7869,
+          "nombre": "uva",
+          "description": "3423",
+          "precio": 45.0
+     },
+     {
+          "codigo": 678,
+          "nombre": "galleta",
+          "description": "chocolate de chisptas",
+          "precio": 23.0
+     },
+     {
+          "codigo": 543534,
+          "nombre": "galetta",
+          "description": "sfdf",
+          "precio": 45.0
+     },
+     {
+          "codigo": 6786,
+          "nombre": "manzana",
+          "description": "rica",
+          "precio": 67.0
+     },
+     {
+          "codigo": 78989,
+          "nombre": "pepino",
+          "description": "verde",
+          "precio": 12.0
+     },
+     {
+          "codigo": 6666,
+          "nombre": "pc",
+          "description": "inovadora",
+          "precio": 10000.0
+     }
+]

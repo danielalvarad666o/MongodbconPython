@@ -1,0 +1,52 @@
+[
+     {
+          "Cliente": {
+               "nombre": "luis",
+               "rfc": "hgvcbnghfchg",
+               "telefono": 87654567890
+          },
+          "Producto": [
+               {
+                    "codigo": 3243,
+                    "nombre": "melon",
+                    "description": "dulce",
+                    "precio": 77.0
+               },
+               {
+                    "codigo": 13223,
+                    "nombre": "limon",
+                    "description": "agrio",
+                    "precio": 34.0
+               },
+               {
+                    "codigo": 6867,
+                    "nombre": "mango",
+                    "description": "amarillo",
+                    "precio": 55.0
+               }
+          ],
+          "fecha": "2023-02-02"
+     },
+     {
+          "Cliente": {
+               "nombre": "manuel",
+               "rfc": "JHJTFT97869HJHKUGUK",
+               "telefono": 9886875885
+          },
+          "Producto": [
+               {
+                    "codigo": 6867,
+                    "nombre": "mango",
+                    "description": "amarillo",
+                    "precio": 55.0
+               },
+               {
+                    "codigo": 3243,
+                    "nombre": "melon",
+                    "description": "dulce",
+                    "precio": 77.0
+               }
+          ],
+          "fecha": "2023-02-02"
+     }
+]
